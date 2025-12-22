@@ -1,5 +1,5 @@
 
-# DOC-OrientationDetect
+# OnnxDocOrientation
 
 ## 📋 Visão Geral
 
